@@ -1,0 +1,15 @@
+.c_bg
+{
+	background-color: red;
+	padding: 10px 0px;
+}
+.bgc{
+	background-color: aqua;
+	padding: 10px 0px;
+	min-height: 50px;
+	margin-bottom: 10px;
+}
+.red
+{
+	background-color: yellow;
+}
